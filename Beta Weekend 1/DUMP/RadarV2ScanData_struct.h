@@ -1,0 +1,9 @@
+// UserDefinedStruct RadarV2ScanData.RadarV2ScanData
+// Size: 0x18 (Inherited: 0x00)
+struct FRadarV2ScanData {
+	struct FVector Location_2_1234265D4D70EF2FDCFE7385A4201114; // 0x00(0x0c)
+	float SizeInKM_5_CAAB00AA40191EC6B5D044A83D116506; // 0x0c(0x04)
+	float Intensity_7_A021D8EF4C249091495ACE8CB856C3F3; // 0x10(0x04)
+	int32_t UID_10_7CC09B5C4ABA02C74E2CA98B21EF1C84; // 0x14(0x04)
+};
+

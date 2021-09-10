@@ -1,0 +1,11 @@
+// ScriptStruct GFur.FurLod
+// Size: 0x10 (Inherited: 0x00)
+struct FFurLod {
+	float ScreenSize; // 0x00(0x04)
+	int32_t LayerCount; // 0x04(0x04)
+	int32_t Lod; // 0x08(0x04)
+	bool PhysicsEnabled; // 0x0c(0x01)
+	bool DisableMorphTargets; // 0x0d(0x01)
+	char pad_E[0x2]; // 0x0e(0x02)
+};
+
